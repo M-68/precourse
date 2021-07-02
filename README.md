@@ -1,3 +1,11 @@
+# Additonal Content
+
+## Scribes
+https://www.dropbox.com/scl/fi/tnwfnghiop8y49bve6vwc/Neuromatch-Notes_Scribes.paper?dl=0&rlkey=hp4roph2z3aw4d6lilixilezq
+
+
+
+
 # Prerequisites and preparatory materials
 
 Welcome to the [Neuromatch Academy](https://neuromatch.io/academy/)! We're really excited to bring computational neuroscience to such a wide and varied audience. We're preparing an amazing set of lectures and tutorials for you!
