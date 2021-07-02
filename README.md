@@ -3,8 +3,13 @@
 ## Scribes
 https://www.dropbox.com/scl/fi/tnwfnghiop8y49bve6vwc/Neuromatch-Notes_Scribes.paper?dl=0&rlkey=hp4roph2z3aw4d6lilixilezq
 
+## Members
 
+Rish | exynos999@outlook.com
 
+## Meeting Room + Timing
+
+Sat, 3rd July, 7a IST 
 
 # Prerequisites and preparatory materials
 
