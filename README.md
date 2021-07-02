@@ -6,6 +6,7 @@ https://www.dropbox.com/scl/fi/tnwfnghiop8y49bve6vwc/Neuromatch-Notes_Scribes.pa
 ## Members
 
 Rish | exynos999@outlook.com
+Prax | pratham10157@gmail.com
 
 ## Meeting Room + Timing
 
