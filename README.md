@@ -1,3 +1,4 @@
+
 # Additonal Content
 
 ## Scribes
@@ -11,6 +12,7 @@ Rish | exynos999@outlook.com
 
 Sat, 3rd July, 7a IST 
 
+
 # Prerequisites and preparatory materials
 
 Welcome to the [Neuromatch Academy](https://neuromatch.io/academy/)! We're really excited to bring computational neuroscience to such a wide and varied audience. We're preparing an amazing set of lectures and tutorials for you!
@@ -18,6 +20,10 @@ Welcome to the [Neuromatch Academy](https://neuromatch.io/academy/)! We're reall
 ## Preparing yourself for the course
 
 People are coming to this course from a wide range of disciplines and with varying levels of background, and we want to make sure everybody is able to follow and enjoy the school from day 1. This means you need to know the basics of programming in Python, some core math concepts, and some exposure to neuroscience. Below we provide more details.
+
+## Master Website
+
+[Computational Neuroscience Tutorials](https://compneuro.neuromatch.io/intro.html)
 
 ### Programming
 
